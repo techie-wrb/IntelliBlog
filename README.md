@@ -1,5 +1,4 @@
-# In
-telliBlog
+# IntelliBlog
 
 **IntelliBlog** is a smart, full-stack blogging platform that integrates AI-based writing assistance using OpenAI, with secure authentication, real-time features, and a clean modern UI.
 

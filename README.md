@@ -1,4 +1,5 @@
-# IntelliBlog
+# In
+telliBlog
 
 **IntelliBlog** is a smart, full-stack blogging platform that integrates AI-based writing assistance using OpenAI, with secure authentication, real-time features, and a clean modern UI.
 
@@ -7,8 +8,8 @@
 ##  Table of Contents
 
 - [ Features](#-features)
-- [🛠️ech Stack](#️-tech-stack)
-- [⚙️ackend Setup](#-backend-setup)
+- [Tech Stack](#️-tech-stack)
+- [Backend Setup](#-backend-setup)
 - [ Frontend Setup](#-frontend-setup)
 - [ License](#-license)
 - [ Author](#-author)
@@ -28,7 +29,7 @@
 
 ---
 
-## 🛠️Tech Stack
+## Tech Stack
 
 ### Frontend:
 - React.js (with React Router)
@@ -46,7 +47,7 @@
 
 ---
 
-## ⚙️etup Instructions
+## Setup Instructions
 
 ###  Backend
 

@@ -1,6 +1,17 @@
-# 🧠 IntelliBlog
+# IntelliBlog
 
 **IntelliBlog** is a smart, full-stack blogging platform that integrates AI-based writing assistance using OpenAI, with secure authentication, real-time features, and a clean modern UI.
+
+---
+
+## 📚 Table of Contents
+
+- [ Features](#-features)
+- [🛠️Tech Stack](#️-tech-stack)
+- [⚙️Backend Setup](#-backend-setup)
+- [ Frontend Setup](#-frontend-setup)
+- [ License](#-license)
+- [ Author](#-author)
 
 ---
 
@@ -35,7 +46,7 @@
 
 ---
 
-## ⚙️etup Instructions
+## ⚙️Setup Instructions
 
 ###  Backend
 
@@ -56,13 +67,14 @@
    OPENAI_API_KEY=your_openai_key
 
 4. Start backend server:
-   ```npm run dev
+   ```bash
+   npm run dev
 
 ### Frontend
 
 1. Navigate to the frontend folder:
    ```bash
-   npm install
+   cd frontend
 
 2. Install dependencies:
    ```bash

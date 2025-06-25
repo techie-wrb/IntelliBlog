@@ -4,11 +4,11 @@
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [ Features](#-features)
-- [🛠️Tech Stack](#️-tech-stack)
-- [⚙️Backend Setup](#-backend-setup)
+- [🛠️ech Stack](#️-tech-stack)
+- [⚙️ackend Setup](#-backend-setup)
 - [ Frontend Setup](#-frontend-setup)
 - [ License](#-license)
 - [ Author](#-author)
@@ -24,11 +24,11 @@
 -  Email password reset using NodeMailer
 -  User profile management
 -  Responsive design using Tailwind CSS
-- 💻 Admin dashboard (multi-user ready)
+-  Admin dashboard (multi-user ready)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 ### Frontend:
 - React.js (with React Router)
@@ -46,7 +46,7 @@
 
 ---
 
-## ⚙️Setup Instructions
+## ⚙️etup Instructions
 
 ###  Backend
 
